@@ -1,0 +1,19 @@
+.Button{
+    color: white;
+    margin-left: 15px;
+    text-transform: capitalize;
+    font-family: Rokkitt, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color: #8A8C7B;
+    padding: 5px 18px 5px 18px;
+    border-radius: 3px;
+}
+
+.Button:hover{
+    background-color: #989F5C;
+}

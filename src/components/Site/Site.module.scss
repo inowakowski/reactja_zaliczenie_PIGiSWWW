@@ -1,0 +1,17 @@
+.Site{
+    display: flex;
+    flex-direction: column;
+}
+
+.Site img{
+    width: 100vw;
+}
+
+.Site h2{
+    font-family: Rokkitt, sans-serif;
+    font-style: normal;
+    text-align: left;
+    margin-left: 80px;
+    padding-left: 60px;
+    margin: 30px;
+}

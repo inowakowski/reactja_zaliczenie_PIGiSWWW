@@ -1,0 +1,27 @@
+.Button2{
+    color: white;
+    margin: 30px;
+    text-transform: capitalize;
+    font-family: Rokkitt, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+    background-color: #8A8C7B;
+    padding: 120px;
+    border-radius: 50px;
+}
+
+.Button2:hover{
+    background-color: #989F5C;
+}
+
+.Button2 img{
+    width: 35%;
+    margin: -120px;
+    display: flex;
+    justify-content: flex-end;
+    border-radius: 50px;
+}

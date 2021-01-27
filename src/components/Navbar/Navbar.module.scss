@@ -1,0 +1,14 @@
+.Navbar{
+    background-color: #212624;
+    font-size: large;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ButtonContainer{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 0 10px 0 0;
+}
